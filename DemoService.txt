@@ -1,1 +1,3 @@
 Git knowledge is very important for DevOps Engineer
+
+In general main branch refers to Prod code.
